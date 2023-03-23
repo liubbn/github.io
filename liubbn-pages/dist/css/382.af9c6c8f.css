@@ -1,0 +1,1 @@
+.ct{position:relative;margin-top:40px;padding:40px;background-color:rgba(0,0,0,.3);-moz-columns:250px 4;columns:250px 4;-moz-column-gap:2px;column-gap:2px;border-top:1px solid #fff}.circle{position:absolute;width:20px;height:20px;border-radius:50%;background-color:#fff}.c1{left:-20px;right:auto}.c1,.c2{top:-10px}.c2{left:auto;right:-20px}.ct>div:hover{filter:blur(2px)}
